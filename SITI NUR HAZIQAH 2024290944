@@ -1,0 +1,323 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>About Me</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background-color:#fff7e6;">
+<style>
+table, th, td {
+  border:1px solid pink;
+}
+</style>
+
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>About Me</h1>
+
+    <table border="1" cellpadding="8" cellspacing="0">
+        <tr><th>Full Name</th><td>Haziqah</td></tr>
+        <tr><th>Age</th><td>20</td></tr>
+        <tr><th>Hometown</th><td>Langkawi, Kedah</td></tr>
+        <tr><th>Course</th><td>IML254 - Introduction to Web Content Development</td></tr>
+    </table>
+
+    <p>I am a student who enjoys learning about web development, multimedia, and design.  
+    This website reflects my creativity and personality.</p>
+</div>
+
+<div id="footer">
+    &copy; 2026 Haziqah
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Contact Me</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background-color:#f2f2f2;">
+
+
+
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>Contact Me</h1>
+
+    <p>Email me at:  
+    <a href="mailto:salimhaziqah@gmail.com">salimhaziqah@gmail.com</a></p>
+
+    <p>Follow me:</p>
+    <a href="https://www.instagram.com/nrhzqhslm?utm_source=qr" target="_blank">
+        <img src="photo3.jpg" width="50" alt="Instagram" />
+    </a>
+</div>
+
+<div id="footer">
+    &copy; 2026 Haziqah
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Education</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background-color:#f3e8ff;">
+
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>My Education Journey</h1>
+
+    <h3>Universiti Teknologi MARA (UiTM)</h3>
+    <img src="UiTM logo.jpg" alt="UiTM Logo" width="500" class="left" />
+<p>
+    <img src="photo3.jpg" alt="UiTM Logo" width="500" class="left" />
+
+    <p>I am currently studying at UiTM.  
+    Visit the official website:  
+    <a href="https://uitm.edu.my" target="_blank">UiTM Official Website</a></p>
+
+    <div style="clear: both;"></div>
+</div>
+
+<div id="footer">
+    &copy; 2026 Haziqah
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Family & Friends</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background-color:pink;">
+
+
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>My Family & Friends</h1>
+
+    <img src="family.jpg" alt="Family Photo" class="right" width="500" />
+
+    <p>My family is my biggest support system. They inspire me to work hard and stay positive.</p>
+
+    <p>I also have amazing friends who make my life more meaningful.</p>
+
+    <img src="friends.jpg" alt="Friends Photo" class="right" width="500" />
+
+</div>
+
+<div id="footer">
+    &copy; 2026 Haziqah
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Gallery</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background-color:#e6fff5;">
+
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>Gallery</h1>
+
+    <h3>Photo Thumbnails</h3>
+    <img src="photo 1.jpg" width="300"  />
+    <img src="photo2.jpg" width="300"  />
+
+    <h3>My Video</h3>
+    <video width="400" >
+        <source src="video1.mp4" type="video/mp4" />
+    </video>
+
+    <h3>Animation (GIF)</h3>
+    <video width="400" controls>
+        <source src="video2.mp4" type="video/mp4" />
+    </video>
+
+
+<div id="footer">
+    &copy; 2026 Haziqah
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Hobbies</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background-color:#e6f2ff;">
+
+
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>My Hobbies</h1>
+
+    <a href="https://youtu.be/Hf-n1yfd8II?si=0hREyhS1mcegnmrg" target="_blank">Badminton</a> |
+    <a href="https://youtu.be/G_SjnHwxWMU?si=M8ut6y2DVQULJN5U" target="_blank">Music</a> |
+    <a href="https://www.youtube.com/live/3LiKYw4L2fU?si=ez3_7J_OiFbqmU2O" target="_blank">Mobile Games</a> |
+
+
+    <h2 id="badminton">Badminton</h2>
+    <p>I enjoy playing badmintons in evening.</p>
+
+    <h2 id="music">Music</h2>
+    <p>I love listening to relaxing music.</p>
+
+    <h2 id="mobile games">Mobile Games</h2>
+    <p>I love to play mobile games in free time especially Mobile Legends.</p>
+</div>
+
+<div id="footer">
+    &copy; 2026 Haziqah
+</div>
+
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Home - My Personal Website</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<body style="background: linear-gradient(#ffd6e7, #e6ccff);">
+
+<div id="nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About Me</a>
+    <a href="education.html">Education</a>
+    <a href="family.html">Family & Friends</a>
+    <a href="hobby.html">Hobbies</a>
+    <a href="gallery.html">Gallery</a>
+    <a href="contact.html">Contact</a>
+</div>
+
+<div id="content">
+    <h1>Welcome to My Personal Website</h1>
+    <img src="gambar saya.jpg" alt="My Photo" width="200" class="center" />
+    <p>Hello! My name is <b>Haziqah</b>. This website is created for my IML254 assignment.  
+    Here, you can learn more about my background, education, hobbies, family, and special moments in my life.</p>
+
+    <p>Feel free to explore each page using the navigation menu above.</p>
+</div>
+
+<div id="footer">
+    &copy; 2026 Haziqah | Best viewed on Chrome | Last updated: June 2026
+</div>
+
+</body>
+</html>
